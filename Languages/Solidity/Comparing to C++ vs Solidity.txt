@@ -1,0 +1,27 @@
+                  Solidity vs C++
+.Mapping.
+.Conversions.
+.Ether Units.
+.Special Variables.
+
+-Functions
+
+.Function Modifiers.
+.View Functions.
+.Pure Functions.
+.Fallback Function.
+.Mathematical Functions.
+.Cryptographic Functions.
+
+-Pattern
+
+.Withdrwal Pattern.
+.Restricted Acesss.
+
+
+.Contracts - Used only onces - Class in C++.
+.Libaries.
+.Assembly.
+
+
+Refer to Tutorial point

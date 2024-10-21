@@ -1,0 +1,3 @@
+Inline Function,Manipulators,Static Member and Static Data Member,Nested Member Function,Friend class,friend function,friend member function
+
+Naresh.itechnology

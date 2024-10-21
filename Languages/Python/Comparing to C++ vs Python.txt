@@ -1,0 +1,11 @@
+                  Python vs C++
+
+.Multithreading.
+.Reg Expressions.
+.CGI Programming.
+.Sending Email.
+.Database Access.
+.Networking.
+.Modules.
+
+Refer to Tutorial point

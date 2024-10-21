@@ -1,0 +1,12 @@
+                  Java vs C++
+
+.Multithreading.
+.Reg Expressions.
+.Packages.
+.Interfaces - Pure Abstract Class.
+.Modules.
+.Java GUI.
+.Collections - STL in C++.
+.Generics - Template in C++.
+
+Refer to Tutorial point

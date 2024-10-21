@@ -1,0 +1,19 @@
+Full MERN Stack
+HTML - Skeleton of a Website.
+CSS - Style of a Website.
+JavaScript - Functionality of an Website used for both forntend and Backend.
+React.js - Javascript Library for Fortened end.
+React native - Framework for developing web apps.
+TypeScript - Same as Javascript but Type Strict Language.
+node.js - environment for Website to run on it.
+Express.js - It is a node js web application framework that provides broad features for building web and mobile applications.
+MongoDB - MongoDB is an open source NoSQL database management program.
+Moogose - Mongoose is a Node.js-based Object Data Modeling (ODM) library for MongoDB.
+
+Etherun Blockchain
+Solidity - Programming language for ether and smart contract.
+Web.js - Etherum Library for javascript.
+Truffle/Hardhat -  Truffle and Embark are the two most popular frameworks used to develop dapps.
+IPFS - It is a decentralized storage system.
+Ganache - It is a personal blockchain for rapid Ethereum and Corda distributed application development.
+Metamask -Wallet for blockchain.

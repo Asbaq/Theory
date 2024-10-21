@@ -1,0 +1,15 @@
+                  Javascript vs C++
+
+.Cookies.
+.Page Redirect.
+.Dialog Box.
+.Void Keyword.
+.Page Printing.
+.Objects - STL in C++
+.Math.
+.RegEpx.
+.Html Dom.
+.Error Handling.
+.Validations.
+
+Refer to Tutorial point

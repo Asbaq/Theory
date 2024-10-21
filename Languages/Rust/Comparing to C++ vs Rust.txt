@@ -1,0 +1,20 @@
+                  Rust vs C++
+
+.Tuple.
+.Ownership.
+.Borrowing.
+.Slices.
+.Modules.
+.Package Manager.
+.Iterator and closure.
+.Concurrency.
+.Unboxing and Boxing - Smart Pointers.
+
+
+
+
+
+
+
+
+Refer to Tutorial point

@@ -1,0 +1,15 @@
+                  C# vs C++
+
+.Interfaces - Pure Abstract class in C++.
+.Collections - STL in C++.
+.Generics - Templates in C++.
+.Attributes.
+.Reflection.
+.Indexers.
+.Delegates.
+.Events.
+.Anonymous Methods.
+.Unsafe Codes.
+.Multithreading.
+
+Refer to Tutorial point
