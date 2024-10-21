@@ -1,0 +1,5 @@
+﻿  loadShader.cpp
+  main.cpp
+C:\Users\Asbaq Laareb\Desktop\Glut_Opengl\Glut_Opengl\main.cpp(24,29): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Generating Code...
+  Glut_Opengl.vcxproj -> C:\Users\Asbaq Laareb\Desktop\Glut_Opengl\Debug\Glut_Opengl.exe
